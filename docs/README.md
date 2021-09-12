@@ -1,0 +1,3 @@
+# VuePress
+
+<<< @/../package.json
